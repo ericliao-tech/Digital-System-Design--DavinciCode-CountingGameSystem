@@ -1,5 +1,6 @@
 # 🔢 Davinci Code - Digital Counting Game System
 
+ 🎓 This project was completed as part of my digital system design coursework at NTUST.
 This Verilog project implements a **two-phase number guessing game system**, inspired by the concept of "Davinci Code." The game allows a user to set a secret number in the first phase and try to guess it using limited button operations in the second phase. It is designed for FPGA deployment and uses FSM-based logic with seven-segment display output and LED indicators.
 
 ---
